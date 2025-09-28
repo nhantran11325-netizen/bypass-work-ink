@@ -7,6 +7,7 @@
 // @match        https://work.ink/*
 // @run-at       document-start
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=work.ink
-// @downloadURL  https://raw.githubusercontent.com/nhantran11325-netizen/bypass-work-ink/refs/heads/main/bypass.js
-// @updateURL    https://raw.githubusercontent.com/nhantran11325-netizen/bypass-work-ink/refs/heads/main/bypass.js
+// @downloadURL  https://github.com/nhantran11325-netizen/bypass-work-ink/raw/main/bypassworkink.user.js
+// @updateURL    https://github.com/nhantran11325-netizen/bypass-work-ink/raw/main/bypassworkink.user.js
+// @require      https://github.com/nhantran11325-netizen/bypass-work-ink/raw/main/bypass.js
 // ==/UserScript==
